@@ -3,9 +3,9 @@ import React, {Component} from 'react';
 export default class App extends Component{
   render(){
     return(
-      <div>
-        <h3> Geodrop </h3>
-        <p> Discover the best places to travel based on your budget and interests. </p> 
+      <div className="jumbotron">
+        <h3> Redux Starter </h3>
+        <p> Simple starter package for Redux with React and hot reloading </p> 
       </div>
     )
   }

@@ -1,7 +1,7 @@
 {
-  "name": "geodrop",
+  "name": "ReduxStarter",
   "version": "0.1.0",
-  "description": "Discover the best places to visit based on your budget and interests.",
+  "description": "Simple starter package for Redux with React and hot reloading",
   "private": true,
   "author": "Monideep Purkayastha",
   "license": "WTFPL",
